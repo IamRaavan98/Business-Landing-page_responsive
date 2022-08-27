@@ -4,7 +4,7 @@
 
 ### Time Required Around **9hrs**
  
-### [Here Deployed Link of Project]()
+### [Here Deployed Link of Project](https://business-landing-page-7d617a.netlify.app/)
 
 **FULL WEB-PAGE SCREEN-SHOT
 
